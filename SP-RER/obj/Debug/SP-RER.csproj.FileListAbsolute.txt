@@ -1,0 +1,6 @@
+C:\Users\Prateek Gupta\source\repos\SP-RER\SP-RER\bin\Debug\SP-RER.dll.config
+C:\Users\Prateek Gupta\source\repos\SP-RER\SP-RER\bin\Debug\SP-RER.pdb
+C:\Users\Prateek Gupta\source\repos\SP-RER\SP-RER\obj\Debug\SP-RER.csprojAssemblyReference.cache
+C:\Users\Prateek Gupta\source\repos\SP-RER\SP-RER\obj\Debug\SP-RER.csproj.CoreCompileInputs.cache
+C:\Users\Prateek Gupta\source\repos\SP-RER\SP-RER\obj\Debug\SP-RER.dll
+C:\Users\Prateek Gupta\source\repos\SP-RER\SP-RER\obj\Debug\SP-RER.pdb
